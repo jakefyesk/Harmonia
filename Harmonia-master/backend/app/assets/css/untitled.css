@@ -1,0 +1,16 @@
+.column {
+}
+
+logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
